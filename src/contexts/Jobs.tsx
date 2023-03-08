@@ -1,5 +1,5 @@
-import { createContext, ReactNode, useEffect, useState } from "react";
-import { useQuery } from "react-query";
+import { createContext, ReactNode, useEffect, useState } from 'react';
+import { useQuery } from 'react-query';
 
 interface JobProviderProps {
   children: ReactNode;
@@ -32,7 +32,7 @@ export default function JobProvider({ children }: JobProviderProps) {
   useEffect(() => {
     (async () => {
       const result = await fetch(
-        "https://wiliam-melo-job-api.up.railway.app/jobs/"
+        'https://wiliam-melo-job-api.up.railway.app/jobs/',
       ).then((res) => res.json());
       setJobs(result);
     })();
