@@ -8,4 +8,4 @@ Todo o front-end da aplicação foi desenvolvido utilizando o framework React, e
 
 Ah, e falando em API, ela está disponível publicamente no repositório do GitHub, caso você queira dar uma olhada. É o JobsApi, criado por mim mesmo, o link está aqui: https://github.com/WiliamMelo01/JobsApi.
 
-Enfim, esse foi um projeto muito legal de trabalhar e que me permitiu aprender bastante sobre React e consumo de API. Se você quiser conferir como ficou, basta acessar este [link aqui](https://jobs-b0k1s3g6o-wiliammelo01.vercel.app/). Obrigado!
+Enfim, esse foi um projeto muito legal de trabalhar e que me permitiu aprender bastante sobre React e consumo de API. Se você quiser conferir como ficou, basta acessar este [link aqui](https://wiliam-melo-jobs.vercel.app/). Obrigado!
